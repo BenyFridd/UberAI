@@ -1,0 +1,13 @@
+**/venv/*
+**/.ipynb_checkpoints/*
+
+**/.env
+**/*.env
+**/__pycache__/*
+
+
+**/node_modules/*
+.qodo
+**/products.jsonl
+**/02-data.sql
+**/.DS_store

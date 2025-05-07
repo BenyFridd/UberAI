@@ -1,0 +1,14 @@
+openai
+pydantic
+python-dotenv
+asyncio
+pydantic-ai
+pandas
+IPython
+scikit-learn
+matplotlib
+seaborn
+fastapi
+uvicorn
+rich
+numpy
